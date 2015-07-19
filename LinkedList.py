@@ -6,7 +6,7 @@ class ListNode:
 def toList(ln):
     result = []
     while ln:
-        reault.append(ln.val)
+        result.append(ln.val)
         ln = ln.next
     return result
 
